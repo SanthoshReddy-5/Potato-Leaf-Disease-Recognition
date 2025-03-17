@@ -11,7 +11,6 @@ This project aims to detect and classify potato diseases using deep learning. Th
  -  Predict whether the plant is healthy or diseased.
  -  Display predicted output that is **Healthy**, **Late Blight** and **Early Blight**.
  -  Web-based interface for easy access with mobile responsive design.
- -  
 
 ## 🛠️ Tech Stack
  - Frontend: HTML, CSS, JavaScript
